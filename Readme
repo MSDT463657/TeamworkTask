@@ -1,1 +1,15 @@
-This is the initial file
+# Teamwork Task
+
+This repository now includes a simple console Tic Tac Toe game.
+
+## Tic Tac Toe
+
+Run the game with Python 3:
+
+```bash
+python tic_tac_toe.py
+```
+
+Two players take turns entering numbers 1-9 that correspond to the board
+positions. The first player to get three in a row wins; otherwise the
+game ends in a draw when the board is full.
